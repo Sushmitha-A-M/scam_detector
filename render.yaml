@@ -12,7 +12,7 @@ services:
       - key: DATABASE_URL
         value: sqlite:///./scamshield.db
       - key: ALLOWED_ORIGINS
-        value: https://redflag-ai.onrender.com
+        value: https://redflag-ai-3lfi.onrender.com
       - key: MAX_UPLOAD_SIZE
         value: "26214400"
 
